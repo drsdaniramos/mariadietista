@@ -1,0 +1,15 @@
+{
+  "name": "María Arroyo García · Dietista-Nutricionista",
+  "short_name": "María Dietista",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f1e8",
+  "theme_color": "#2f3e2b",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
